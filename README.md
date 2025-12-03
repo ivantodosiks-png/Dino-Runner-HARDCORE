@@ -8,12 +8,6 @@ Dette er ikke et enkelt spill – poengsystemet og den stadig økende hastighete
 
 ---
 
-## Skjermbilder / Demo
-> ![Screenshot](https://imgur.com/a/nn1NbZN)
-
-
----
-
 ## Funksjoner
 - **Super hardcore gameplay** med stadig økende fart  
 - Fullskjerm Canvas som fyller hele nettleservinduet  
