@@ -7,8 +7,11 @@
 Dette er ikke et enkelt spill – poengsystemet og den stadig økende hastigheten gjør det til et ekte **hardcore-runner**-spill.
 
 ---
-
+Spill
+https://ivantodosiks-png.github.io/Dino-Runner-HARDCORE/
 ## Funksjoner
+---
+
 - **Super hardcore gameplay** med stadig økende fart  
 - Fullskjerm Canvas som fyller hele nettleservinduet  
 - Kontroller: Mellomrom eller pil opp for å hoppe  
