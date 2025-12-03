@@ -9,8 +9,8 @@ Dette er ikke et enkelt spill – poengsystemet og den stadig økende hastighete
 ---
 
 ## Skjermbilder / Demo
-> ![Screenshot]([screenshot.png](https://imgur.com/a/nn1NbZN))  
-> *Sett inn eget screenshot eller GIF som viser spillet.*
+> ![Screenshot](https://imgur.com/a/nn1NbZN)
+
 
 ---
 
